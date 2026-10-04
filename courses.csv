@@ -1,0 +1,11 @@
+course_id,course_name,credits,category
+C001,Basis Data Graf,3,Core
+C002,Artificial Intelligence,3,Core
+C003,Basis Data,3,Core
+C004,Natural Language Processing,3,Elective
+C005,Pemrograman Web,3,Core
+C006,Statistika Data,2,Elective
+C007,Sistem Operasi,3,Core
+C008,Rekayasa Perangkat Lunak,3,Core
+C009,Keamanan Informasi,2,Elective
+C010,Data Visualization,2,Elective
